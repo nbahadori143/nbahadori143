@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-Salaam, I am Nazir Bahadori an experienced Software Developer & I am currently studying Computer Science at Kardan University, in the Kabul Afghinstan.
+Salaam, I am Nazir Bahadori an experienced Software Developer & I am currently working at click.af, in the Kabul Afghinstan.
 
 I'm a willing and specialized web developer in server-side programming with over 4+ years of extensive professional experience. Problem solving, processing, optimizing, scalability and user-friendly is my favorite fun on developing. I am also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
 
