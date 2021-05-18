@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="#">
-  <img align="left" src="https://github-readme-stats-five-psi-47.vercel.app/api?username=nazirbahadori&show_icons=true&count_private=true&theme=radical"  width=100%
+  <img align="left" src="https://github-readme-stats-five-psi-47.vercel.app/api?username=clicknbahadori&show_icons=true&count_private=true&theme=radical"  width=100%
   height=auto />
 <br>
 <br>
@@ -36,7 +36,7 @@ I'm a willing and specialized web developer in server-side programming with over
 
 <p>
   
-- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[react.js,Vue.js]. 
+- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[react.js,react-native,Vue.js]. 
 
 - **UI Design:** Draw.io, Figma.
 
