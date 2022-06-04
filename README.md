@@ -25,18 +25,14 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-Salaam, I am Nazir Bahadori an experienced Software Developer & I am currently working at click.af, in the Kabul Afghinstan.
-
 I'm a willing and specialized web developer in server-side programming with over 4+ years of extensive professional experience. Problem solving, processing, optimizing, scalability and user-friendly is my favorite fun on developing. I am also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
-
-
 </p>
 
 ## Languages and Tools
 
 <p>
   
-- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[react.js,react-native,Vue.js]. 
+- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[React.js,react-native,Next.js]. 
 
 - **UI Design:** Draw.io, Figma.
 
