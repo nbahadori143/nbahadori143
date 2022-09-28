@@ -26,18 +26,16 @@ Here are some ideas to get you started:
 ## Bio
 
 <p>
-I'm a willing and specialized web developer in server-side programming with over 4+ years of extensive professional experience. Problem solving, processing, optimizing, scalability and user-friendly is my favorite fun on developing. I am also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
+I'm a willing and specialized web developer in client-side programming with over 5+ years of extensive professional experience. Problem solving, processing, optimizing, scalability and user-friendly is my favorite fun on developing. I am also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
 </p>
 
 ## Languages and Tools
 
 <p>
   
-- **Technology Stack:** PHP[Laravel,CodeIgniter,WordPress,Shopify], JavaScript[React.js,react-native,Next.js]. 
+- **Technology Stack:** JavaScript[React.js,react-native,Next.js]. 
 
 - **UI Design:** Draw.io, Figma.
-
-- **Databases:** MySQL, PostgreSQL, SQLite.
 
 - **API Specs:** REST.
 
