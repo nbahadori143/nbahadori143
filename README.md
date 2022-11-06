@@ -54,13 +54,7 @@ I'm a willing and specialized web developer in client-side programming with over
 ## Connect with me:
 
 
-
-[<img align="left" alt="Williano | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Williano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[facebook]: https://facebook.com/nm.260
-[instagram]: https://www.instagram.com/nazir_bahadori/
+<a href="https://linkedin.com/in/abbas-ataie-72a4431b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazirbahadori" height="30" width="40" /></a>
 
 
 
